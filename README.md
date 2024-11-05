@@ -38,7 +38,7 @@ $ cd clash-for-linux
 - 运行启动脚本
 
 ```bash
-$ sh start.sh
+$ bash start.sh
 配置文件config.yaml下载成功！                              [  OK  ]
 服务启动成功！                                             [  OK  ]
 系统代理http_proxy/https_proxy设置成功，请在当前窗口执行以下命令加载环境变量:
